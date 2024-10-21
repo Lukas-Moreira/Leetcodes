@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "stack": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "xlocinfo": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "vector": "cpp",
+        "queue": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
